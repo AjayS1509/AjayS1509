@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Ajay Soni</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<img align="right" alt="coding-gif" width="400" src ="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="coding-gif" width="400" src ="https://ajay-project-food-ordering.s3.amazonaws.com/alz9foph0.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajays1509&label=Profile%20views&color=0e75b6&style=flat" alt="ajays1509" /> </p>
 
-- 🌱 I’m currently learning **Back-end Development, React, Next, Node, etc.**
+- 🌱 I’m currently learning **TypeScript, Next14, TailwindCss, Back-end Development, React, Next, Node, etc.**
 
 - 👨‍💻 All of my projects are available at [https://ajaysoni.vercel.app/](https://ajaysoni.vercel.app/)
 
