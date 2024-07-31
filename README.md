@@ -28,6 +28,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ajays1509&show_icons=true&locale=en&layout=compact" alt="ajays1509" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajays1509&show_icons=true&locale=en" alt="ajays1509" /></p>
+[//]: #<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ajays1509&show_icons=true&locale=en" alt="ajays1509" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ajays1509&" alt="ajays1509" /></p>
